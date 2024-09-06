@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1 > Shathusan Sritharar</h1> <h2>👋 Hi ✌🏽, I'm a Full-Stack Developer</h2><br>🎓 Education<br>📚 I'm currently pursuing a BSc (Hons) in Software Engineering<br><br>
+# 💫 About Me
+<h1 > Shathusan Sritharar</h1> <h2>👋 Hi ✌🏽, I'm a Full-Stack Developer</h2>🎓 Education<br>📚 I'm currently pursuing a BSc (Hons) in Software Engineering<br><br>
  <br>💻 Skills<br><br>Languages & Frameworks: JavaScript, React, Next.js, Spring Boot, Laravel<br>Styles: Tailwind CSS, Bootstrap<br>Version Control: Bitbucket, GitHub<br><br>💬 Ask me about:<br>React.js, Next.js, Tailwind CSS, Laravel, Bootstrap<br><br>📫 Reach me at:<br>shathus34@gmail.com<br><br>
 
 
