@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://i.ibb.co/DLkB8fv/1634533856823.gif" alt="Profile Image" width="150" style="border-radius: 50%;" />
 
-</h1>
 # 💫 About Me
 <h1 align="center" > Shathusan Sritharar</h1> <h2 align="center">👋 Hi ✌🏽, I'm a Full-Stack Developer</h2>🎓 Education<br>📚 I'm currently pursuing a BSc (Hons) in Software Engineering<br><br>
  <br>💻 Skills<br><br>Languages & Frameworks: JavaScript, React, Next.js, Spring Boot, Laravel<br>Styles: Tailwind CSS, Bootstrap<br>Version Control: Bitbucket, GitHub<br><br>💬 Ask me about:<br>React.js, Next.js, Tailwind CSS, Laravel, Bootstrap<br><br>📫 Reach me at:<br>shathus34@gmail.com<br><br>
